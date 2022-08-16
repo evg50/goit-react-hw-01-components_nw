@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Statistics({ title, stats }) {
   // title = false;
-  console.log(stats);
+  // console.log(stats);
   return (
     <div>
       <section className="statistics">
